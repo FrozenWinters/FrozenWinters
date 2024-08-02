@@ -1,5 +1,7 @@
 ### 👋 Hi there!
 
-I'm Astra Kolomatskaia *(she/her)*, a PhD student at Stony Brook University working with Emily Riehl *(Johns Hopkins)*
+I'm Astra Kolomatskaia *(she/her)*, a postdoctoral fellow in computer science at Wesleyan University
 
-I study homotopy type theory, with a focus on higher coherence issues and infinitary towers of data *\[watch this space\]* 
+I completed my PhD at Stony Brook University with Emily Riehl *(Johns Hopkins)*
+
+My thesis introduced Displayed Type Theory *(dTT)* and constructed semi-simplicial types
